@@ -13,7 +13,7 @@
 ---
 
 ## 🌐 Links
-- 🌍 https://printylix.vercel.app/
+- 🌍 https://printylix.com.tr/
 - 🧠 https://forum.makecode.com/u/mehflexx/summary
 
 ---
