@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Mehmet Güvendik
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Game+Developer;3D+Printing+Enthusiast;MakeCode+Lover;Full+Stack+Learner" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Game+Developer;3D+Printing+Enthusiast;MakeCode+Lover;Full+Stack+Learner" />
+</p>
 
 ---
 
@@ -40,7 +42,7 @@
 
 ---
 
-## 🐍 Contribution Snake (ANİMASYON 🔥)
+## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mehflexx17/Mehflexx17/output/github-contribution-grid-snake.svg" />
 </p>
@@ -62,4 +64,4 @@
 ---
 
 ## ⚡ Fun Fact
-I turn coffee ☕ into code and plastic 🧵 into real objects with my 3D printer 😎
+I turn coffee ☕ into code and plastic 🧵 into real objects 😎
